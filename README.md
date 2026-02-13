@@ -21,14 +21,14 @@ READ DOCS<br>
 + Multi Parameter! ?home=show&param2=x&param3=x&and_so_on<br>
 + Safe Method
 + Build in Redirect Option
-+ Build in Anti Rightclick, ctrl+u & f12
++ Build in Anti Rightclick, ctrl+U & f12
 <br>
 
 # ABOUT THE CODE
 This is RAW Code, Edit it As Fits UR System Build with Basic Logic.<br>
 This Code was <b><u>Intended to Protect HTML files</u></b> Using Simple Render Tools.
 Which is Usefull for UI/UX Sites.<br>
-<b> Developer of This Code @xmoriori , Are Still Active Developing This Code, Feel Free to Post An Issue or Request</b><br>
+<b> Developer of This Code @x64x32 , Are Still Active Developing This Code, Feel Free to Post An Issue or Request</b><br>
 Feel Free to Modify This Code v:
 
 + HOW TO HIDE?
