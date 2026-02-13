@@ -17,9 +17,6 @@ require /var/www/html/anywhere/anywhere/viewsource_clean.php;
 # NEW VERSION RELEASED! VER 2.0.3 D5 , PHP 7.X
 READ DOCS<br>
 
-*__SAMPLE CODES__*<br><br>
-https://retas.dev/demo_script/viewsource.php?about=load&samplecodes<br>
-
 *__WHATS NEW?__*<br>
 + Multi Parameter! ?home=show&param2=x&param3=x&and_so_on<br>
 + Safe Method
@@ -59,7 +56,6 @@ MIT LICENSE
 + *Updated Documentation ID*
 + Obliterate Viewsource Mode Added
 + Changing The Code Entirely
-+ <b>ADD PARAMETER MANAGEMENT</B>
 + Removing LOAD Parameter
 + Adding Load Render Fixing Firefox Bug.
 + Adding Firefox Compability
