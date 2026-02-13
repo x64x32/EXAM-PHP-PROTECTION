@@ -41,9 +41,6 @@ U KNOW, View-Source is IMPOSSIBLE to Hide! But Now UR Dream Come True!
 MIT LICENSE
 + YOU CAN HELP ME TO IMPROVE THIS CODE
 
-## DEVELOPER
-@XMORINORI
-
 ## CHANGELOG
 + Parameter Management (MP);
 + *Updated Documentation ID*
